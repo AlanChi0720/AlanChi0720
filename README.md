@@ -44,9 +44,15 @@ Email: hc3331@nyu.edu | Mobile: +1 (530)953-1140 | [LinkedIn](http://www.linkedi
 
 ## Projects
 
-- [Mouse Sheet Manager](https://github.com/AlanChi0720/Mouse-Sheet-Manager) — GUI-based mouse metadata management tool (Python, Tkinter, SQLite, pandas); supports structured data entry, querying, and real-time export.
-- [Chess Game with AI Integration](https://github.com/AlanChi0720/chess_bot) — Console chess game powered by Stockfish with real-time move suggestions; fetches and parses Chess.com API game data (Python, pandas, numpy).
-- [Slope Analyzer Web App](https://github.com/AlanChi0720/slope_app) — Flask app that analyzes ski run data from .gpx files; auto-segments runs, computes elevation/speed/distance, and generates interactive Folium maps (Python, Flask, gpxpy, Folium).
+**Research projects**
+
+- **SCENIC+ Multiome Analysis Pipeline** *(Python, SCENIC+, Snakemake, SLURM, scRNA-seq, scATAC-seq, HPC, 10X Genomics Multiome)* — End-to-end multi-omics pipeline integrating scRNA-seq and scATAC-seq with SCENIC+ to map gene regulatory networks during motor neuron development; deployed on Rutgers Amarel HPC with Snakemake and SLURM.
+- **scRNA-seq Motor Neuron Subtype Analysis** *(Python, Scanpy, AnnData, Leiden clustering, 10X Genomics Multiome)* — Single-cell RNA-seq pipeline identifying and characterizing Alpha MN, Gamma MN, and Beta/Type-3 motor neuron subtypes using canonical markers (Chat, Mnx1/HB9, Nefh, Chodl, Esrrg).
+
+**Independent projects**
+
+- [Mouse Sheet Manager](https://github.com/AlanChi0720/Mouse-Sheet-Manager) *(Python, Tkinter, SQLite, pandas)* — GUI-based mouse metadata management tool supporting structured data entry, querying, and real-time export for downstream bioinformatics pipelines.
+- [Chess Game with AI Integration](https://github.com/AlanChi0720/chess_bot) *(Python, Stockfish, Chess.com API, pandas, numpy)* — Console chess game powered by Stockfish with real-time move suggestions and UCI protocol; fetches and analyzes Chess.com game data with pandas.
 
 ## Publications
 
